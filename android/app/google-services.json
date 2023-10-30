@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909395230839",
+    "project_id": "crickskillpro",
+    "storage_bucket": "crickskillpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909395230839:android:7f6aa341b9ea54778f0672",
+        "android_client_info": {
+          "package_name": "com.cricskillpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsNlIrEpxeZbpl4va9CiV81ay9eVa6BXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
